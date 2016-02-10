@@ -1,0 +1,218 @@
+# search
+Here are some changes
+Where?
+
+grep
+
+> # move content to a file
+>> # append content to a file
+
+# open directory in atom
+atom .
+
+# list contents of dir
+ls
+
+# shortcut ls -lh
+ll
+
+# terminal history
+history
+
+# remove file
+rm
+
+# create file
+touch
+
+# change directory
+cd
+
+# create directory
+mkdir
+
+# alphabetize
+sort
+
+# clear screen keep history
+clear
+
+# manual for command
+man
+
+
+DS_Store
+ls -a
+iTerm.app/
+cd Applications/
+cd Users
+cd
+cd /
+cd /Users/careylamothe/
+cd ..
+cd /Users
+Users
+cd .
+cd ~
+man ls
+cd /Volumes
+cd Atom.app/
+cd /Atom
+cd Atom
+/Atom
+cd /Applications/
+cd / Applications/
+cd / a
+ls -l
+pwd
+tree -L 2
+tree -aL 1
+man tree
+tree -L 1
+brew install tree
+ls -l@
+ls -@
+ls -A
+~ .
+ls -d
+ls -r
+ls -lt
+ls -t
+open /users/careylamothe
+open /user/careylamothe
+open /user.careylamothe
+open ~
+open .
+open.
+echo ~
+which whoami
+whoami
+~
+open http://careylamothe.surge.sh
+open http://carey.lamothe.surge.sh
+surge
+git commit -m "Add a CNAME"
+git add CNAME
+touch CNAME
+git commit -m "add a tiny web page"
+git add index.html
+open index.html
+touch index.html
+git init
+rm careylamothe.surmkdir
+cd careylamothe.surge.sh/
+mkdir careylamothe.surge.sh
+mkdir careylamothe.surmkdir
+mkdir ~/Projects
+surge -V
+npm install -g surge
+rm ~/Desktop//test.js
+node ~/Desktop/test.js
+atom ~/Desktop/test.js
+node
+node -v
+brew install node
+curl -fsSL https://git.io/vgqFH | sh
+git config --global user.email 'carey.lamothe@gmail.com'
+git config --global user.name 'Carey LaMothe'
+git --version
+which git
+which
+brew install git
+/bin/echo $PATH
+echo $PATH
+which echo
+shout $PATH
+echo $EDITOR
+atom ~/.config/fish/config.fish
+brew deps atom ~/.config/fish/config.fish
+brew info fish
+fish_update_completions
+curl -fsSL https://git.io/vgqFU | ruby
+uname
+ls -G
+git config --global user.email carey.lamothe@gmail.com
+git config --global user.name "Carey LaMothe"
+git commit -m "adding index"
+git status
+git add _02_html/your-solution/LaMothe-Carey/index.html
+rm -rf _02_html/your-solution/.git
+git remote -v
+git remote
+git remotes
+more index.html
+cd LaMothe-Carey/
+cd /Users/careylamothe/prework/_02_html/your-solution
+git remote add upstream git@github.com:careylamothe/prework.git
+cd prework
+git clone git@github.com:careylamothe/prework.git
+git clone git@github.com:careylamothe/Spoon-Knife.git
+cd..
+cd preWork
+cd galvanize
+cd LaMothe-Carey
+cd _02_html/your-solution
+cd prework-master
+.
+./
+../
+cd prework-master/_02_html/your-solution/LaMothe-Carey
+cd prework master
+defaults write com.apple.finder AppleShowAllFiles -bool true
+brew help
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+Dinosaur4
+git push -u origin master
+git remote add origin git@github.com:careylamothe/git-practice.git
+cd git-practice
+cd galvanize/preWork
+git log
+git push -u origin master
+pbcopy < ~/.ssh/id_rsa.pub
+$ pbcopy < ~/.ssh/id_rsa.pub
+cd ~/.ssh/
+ssh-add ~/.ssh/id_rsa
+eval "$(ssh-agent -s)"
+ls -al ~/.ssh
+git push git remote add origin git@github.com:careylamothe/git-practice.git
+git push git@github.com:careylamothe/git-practice.git
+git remote add origin https://github.com/careylamothe/git-practice.git
+cd git-proctice
+cd galvanize/preWork/git-practice/symphony
+git log > log.txt
+git log > symphony
+git commit -m "I'm adding files to Git."
+git add symphony
+touch symphony
+cd galvanize/preWork/git-practice
+ssh-keygen -t rsa -b 4096 -C carey.lamothe@gmail.comSHA256:9VVsH8HwmRrBG6dDHav27Pd9ZDW2Yw7ASxNqDCrboMM carey.lamothe@gmail.com
+ssh-keygen -t rsa -b 4096 -C carey.lamothe@gmail.com
+mkdir git-practice
+git
+mv Nyan.ttf ~/Library/Fonts/
+cd ./downloads
+cd ~ Downloads
+cd ./Downloads
+cd ./unix-commands.txt
+touch unix-commands.txt
+cd ./preWork
+mkdir preWork
+cd ./galvanize
+mkdir galvanize
+man man
+ck /
+touch galvanize
+ls ~
+cd home
+cd ls
+cd ./root
+cd ~/desktop/temp/wget-1.9.1
+cd ./
+ls /
+cd/
+cd root
+'cd'
+l
+wget https://github.com/wiggin15/SublimeNyan/raw/master/Nyan.ttf -O ~/Library/Fonts/Nyan.ttf
+wget
+https://github.com/wiggin15/SublimeNyan/raw/master/Nyan.ttf -O ~/Library/Fonts/Nyan.ttf
